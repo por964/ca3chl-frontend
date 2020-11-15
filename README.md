@@ -1,4 +1,4 @@
-This project is deployed at: abiding-veil.surge.sh
+This project is deployed at: http://abiding-veil.surge.sh/
 
 Backend to this project: https://github.com/por964/ca3chl
 
